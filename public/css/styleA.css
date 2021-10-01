@@ -1,0 +1,40 @@
+.j{
+    position: relative;
+    display: flex;
+    left: 0px;
+    transition: .3s;
+    top: 70px;
+    padding: 5px 10px;
+    
+}
+
+.label{
+    float: left;
+    display: block;
+    width: 230px;
+}
+
+.somme {
+    clear: both;
+    float: right;
+    margin: -53px 10px 0 0;
+}
+ 
+.somme input {
+    height: 30px;
+}
+ 
+.somme button {
+    background: 9px 6px #39d3d3;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    height: 30px;
+    width: 80px;
+    margin-left: -4px;
+    margin-bottom: 5px;
+    vertical-align: bottom;
+}
+
+
+
+
